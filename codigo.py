@@ -1,9 +1,10 @@
-nombre = "Soy"
+nombre = "Camila"
 apellido= "Ledezma"
 
 saludo = "Hola " + nombre + " " + apellido
 
 print(saludo + "¿como estas?")
+
 
 
 
